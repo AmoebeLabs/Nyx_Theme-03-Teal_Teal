@@ -11,6 +11,7 @@ It has built-in support for the following custom components:
 - The [custom thermostat card](https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card)
 - The [custom simple weather card](https://github.com/kalkih/simple-weather-card)
 - The awesome [custom button card](https://github.com/custom-cards/button-card)
+- The great [custom mini graph card](https://github.com/kalkih/mini-graph-card)
 - The [custom air visual card](https://github.com/dnguyen800/air-visual-card)
 
 ## Simple Preview:
@@ -26,3 +27,20 @@ The main colors, based on the [Material Design Color Palettes](https://github.co
 - Almost Black Teal for backgrounds
 - Teal as Primary Color
 - Teal as the Secondary Color
+
+## Inspired by...
+Of course, I did not re-invent the wheel.
+Hemera and Nyx, together with the 3-grid layout and on/off colors are heavily inspred by Apple's HomeKit and the mighty [HomeBridge UI](https://www.npmjs.com/package/homebridge-config-ui-x#accessory-control).
+
+### Homekit:
+![](https://github.com/AmoebeLabs/Home-Assistant-Config/blob/master/inspiration/Inspired%20by%20Homekit.png)
+
+### Homebridge:
+![](https://github.com/AmoebeLabs/Home-Assistant-Config/blob/master/inspiration/Inspired%20by%20Homebridge.png)
+
+### Last but not least: Google's material design, inclusing design rules:
+- https://materializecss.com/color.html
+- https://material.io/design/color/#color-usage-palettes
+- https://material.io/design/color/dark-theme.html
+
+### And last last but not least: the 3 button topmenu by @jimzz
