@@ -1,4 +1,4 @@
-# Nyx Theme variant #03 Teal/Teal
+# Nyx Theme variant #03, Teal/Teal/Teal
 A fully dark Teal theme based on Nyx
 
 ## What is it
